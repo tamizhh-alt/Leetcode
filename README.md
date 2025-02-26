@@ -8,6 +8,7 @@ My leetcode problems
 | ------- |
 | [0001-two-sum](https://github.com/tamizhh-alt/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tamizhh-alt/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/tamizhh-alt/Leetcode/tree/master/0027-remove-element) |
 | [0566-reshape-the-matrix](https://github.com/tamizhh-alt/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/tamizhh-alt/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/tamizhh-alt/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -48,4 +49,5 @@ My leetcode problems
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tamizhh-alt/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/tamizhh-alt/Leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
