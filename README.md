@@ -25,6 +25,7 @@ My leetcode problems
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/tamizhh-alt/Leetcode/tree/master/0014-longest-common-prefix) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/tamizhh-alt/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## String Matching
 |  |
@@ -38,4 +39,8 @@ My leetcode problems
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/tamizhh-alt/Leetcode/tree/master/0009-palindrome-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/tamizhh-alt/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
