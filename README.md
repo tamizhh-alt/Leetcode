@@ -6,6 +6,7 @@ My leetcode problems
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tamizhh-alt/Leetcode/tree/master/0001-two-sum) |
 | [0566-reshape-the-matrix](https://github.com/tamizhh-alt/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/tamizhh-alt/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/tamizhh-alt/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -29,4 +30,8 @@ My leetcode problems
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/tamizhh-alt/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/tamizhh-alt/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
