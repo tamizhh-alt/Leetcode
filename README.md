@@ -7,6 +7,7 @@ My leetcode problems
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/tamizhh-alt/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/tamizhh-alt/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -15,4 +16,8 @@ My leetcode problems
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/tamizhh-alt/Leetcode/tree/master/0566-reshape-the-matrix) |
+## Enumeration
+|  |
+| ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/tamizhh-alt/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
