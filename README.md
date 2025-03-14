@@ -10,6 +10,7 @@ My leetcode problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tamizhh-alt/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tamizhh-alt/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/tamizhh-alt/Leetcode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/tamizhh-alt/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0217-contains-duplicate](https://github.com/tamizhh-alt/Leetcode/tree/master/0217-contains-duplicate) |
 | [0566-reshape-the-matrix](https://github.com/tamizhh-alt/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/tamizhh-alt/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -56,6 +57,7 @@ My leetcode problems
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tamizhh-alt/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tamizhh-alt/Leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/tamizhh-alt/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/tamizhh-alt/Leetcode/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
@@ -65,4 +67,16 @@ My leetcode problems
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/tamizhh-alt/Leetcode/tree/master/0217-contains-duplicate) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/tamizhh-alt/Leetcode/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/tamizhh-alt/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/tamizhh-alt/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
