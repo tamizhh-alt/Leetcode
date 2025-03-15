@@ -33,6 +33,7 @@ My leetcode problems
 | [0014-longest-common-prefix](https://github.com/tamizhh-alt/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/tamizhh-alt/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/tamizhh-alt/Leetcode/tree/master/0125-valid-palindrome) |
+| [0389-find-the-difference](https://github.com/tamizhh-alt/Leetcode/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/tamizhh-alt/Leetcode/tree/master/0520-detect-capital) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/tamizhh-alt/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## String Matching
@@ -44,6 +45,7 @@ My leetcode problems
 | ------- |
 | [0001-two-sum](https://github.com/tamizhh-alt/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/tamizhh-alt/Leetcode/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/tamizhh-alt/Leetcode/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +69,7 @@ My leetcode problems
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/tamizhh-alt/Leetcode/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/tamizhh-alt/Leetcode/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,4 +82,8 @@ My leetcode problems
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tamizhh-alt/Leetcode/tree/master/0042-trapping-rain-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/tamizhh-alt/Leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
