@@ -13,6 +13,7 @@ My leetcode problems
 | [0042-trapping-rain-water](https://github.com/tamizhh-alt/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0217-contains-duplicate](https://github.com/tamizhh-alt/Leetcode/tree/master/0217-contains-duplicate) |
 | [0566-reshape-the-matrix](https://github.com/tamizhh-alt/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/tamizhh-alt/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/tamizhh-alt/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tamizhh-alt/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2737-row-with-maximum-ones](https://github.com/tamizhh-alt/Leetcode/tree/master/2737-row-with-maximum-ones) |
@@ -21,6 +22,7 @@ My leetcode problems
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/tamizhh-alt/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/tamizhh-alt/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/tamizhh-alt/Leetcode/tree/master/2737-row-with-maximum-ones) |
 ## Simulation
 |  |
