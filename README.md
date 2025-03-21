@@ -44,6 +44,7 @@ My leetcode problems
 | [0125-valid-palindrome](https://github.com/tamizhh-alt/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/tamizhh-alt/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/tamizhh-alt/Leetcode/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/tamizhh-alt/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/tamizhh-alt/Leetcode/tree/master/0520-detect-capital) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/tamizhh-alt/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## String Matching
@@ -58,6 +59,7 @@ My leetcode problems
 | [0217-contains-duplicate](https://github.com/tamizhh-alt/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tamizhh-alt/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/tamizhh-alt/Leetcode/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/tamizhh-alt/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tamizhh-alt/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/tamizhh-alt/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 ## Math
@@ -86,6 +88,7 @@ My leetcode problems
 | [0217-contains-duplicate](https://github.com/tamizhh-alt/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tamizhh-alt/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/tamizhh-alt/Leetcode/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/tamizhh-alt/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2331-intersection-of-multiple-arrays](https://github.com/tamizhh-alt/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 ## Dynamic Programming
 |  |
@@ -107,6 +110,7 @@ My leetcode problems
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/tamizhh-alt/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tamizhh-alt/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/tamizhh-alt/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 ## Sliding Window
@@ -119,4 +123,12 @@ My leetcode problems
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tamizhh-alt/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/tamizhh-alt/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/tamizhh-alt/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
