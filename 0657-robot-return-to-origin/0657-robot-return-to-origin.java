@@ -7,6 +7,11 @@ class Solution {
             else if(c == 'L') leftRight++;
             else if(c == 'R') leftRight--;
         }
-        return upDown == 0 && leftRight == 0;
+        if(leftRight == 0 && upDown == 0) return true;
+        else {
+            return false;
+
+        }
+        
     }
 }
