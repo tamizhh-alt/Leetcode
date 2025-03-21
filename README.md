@@ -11,6 +11,7 @@ My leetcode problems
 | [0027-remove-element](https://github.com/tamizhh-alt/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/tamizhh-alt/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/tamizhh-alt/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0169-majority-element](https://github.com/tamizhh-alt/Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/tamizhh-alt/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/tamizhh-alt/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/tamizhh-alt/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -59,6 +60,7 @@ My leetcode problems
 | ------- |
 | [0001-two-sum](https://github.com/tamizhh-alt/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tamizhh-alt/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/tamizhh-alt/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tamizhh-alt/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tamizhh-alt/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/tamizhh-alt/Leetcode/tree/master/0389-find-the-difference) |
@@ -88,6 +90,7 @@ My leetcode problems
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/tamizhh-alt/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tamizhh-alt/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tamizhh-alt/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/tamizhh-alt/Leetcode/tree/master/0389-find-the-difference) |
@@ -113,6 +116,7 @@ My leetcode problems
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/tamizhh-alt/Leetcode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/tamizhh-alt/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tamizhh-alt/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/tamizhh-alt/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
@@ -135,4 +139,8 @@ My leetcode problems
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/tamizhh-alt/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tamizhh-alt/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
