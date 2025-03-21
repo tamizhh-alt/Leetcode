@@ -104,6 +104,7 @@ My leetcode problems
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tamizhh-alt/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0338-counting-bits](https://github.com/tamizhh-alt/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/tamizhh-alt/Leetcode/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
@@ -116,6 +117,7 @@ My leetcode problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/tamizhh-alt/Leetcode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/tamizhh-alt/Leetcode/tree/master/0389-find-the-difference) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tamizhh-alt/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Counting
