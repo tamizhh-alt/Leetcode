@@ -17,6 +17,7 @@ My leetcode problems
 | [0238-product-of-array-except-self](https://github.com/tamizhh-alt/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0566-reshape-the-matrix](https://github.com/tamizhh-alt/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/tamizhh-alt/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/tamizhh-alt/Leetcode/tree/master/0724-find-pivot-index) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/tamizhh-alt/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/tamizhh-alt/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tamizhh-alt/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -138,6 +139,7 @@ My leetcode problems
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tamizhh-alt/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/tamizhh-alt/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/tamizhh-alt/Leetcode/tree/master/0724-find-pivot-index) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
