@@ -21,6 +21,7 @@ My leetcode problems
 | [0724-find-pivot-index](https://github.com/tamizhh-alt/Leetcode/tree/master/0724-find-pivot-index) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/tamizhh-alt/Leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/tamizhh-alt/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [2048-build-array-from-permutation](https://github.com/tamizhh-alt/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/tamizhh-alt/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/tamizhh-alt/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tamizhh-alt/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -38,6 +39,7 @@ My leetcode problems
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/tamizhh-alt/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/tamizhh-alt/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [2048-build-array-from-permutation](https://github.com/tamizhh-alt/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/tamizhh-alt/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Enumeration
 |  |
