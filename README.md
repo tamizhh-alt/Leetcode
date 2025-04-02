@@ -11,6 +11,7 @@ My leetcode problems
 | [0027-remove-element](https://github.com/tamizhh-alt/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/tamizhh-alt/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/tamizhh-alt/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/tamizhh-alt/Leetcode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/tamizhh-alt/Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/tamizhh-alt/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/tamizhh-alt/Leetcode/tree/master/0217-contains-duplicate) |
@@ -121,6 +122,7 @@ My leetcode problems
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tamizhh-alt/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/tamizhh-alt/Leetcode/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/tamizhh-alt/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/tamizhh-alt/Leetcode/tree/master/0392-is-subsequence) |
 ## Stack
