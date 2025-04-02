@@ -22,6 +22,7 @@ My leetcode problems
 | [0724-find-pivot-index](https://github.com/tamizhh-alt/Leetcode/tree/master/0724-find-pivot-index) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/tamizhh-alt/Leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/tamizhh-alt/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1656-count-good-triplets](https://github.com/tamizhh-alt/Leetcode/tree/master/1656-count-good-triplets) |
 | [2048-build-array-from-permutation](https://github.com/tamizhh-alt/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/tamizhh-alt/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/tamizhh-alt/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -45,6 +46,7 @@ My leetcode problems
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/tamizhh-alt/Leetcode/tree/master/1656-count-good-triplets) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/tamizhh-alt/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 ## String
 |  |
