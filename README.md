@@ -63,6 +63,7 @@ My leetcode problems
 | [0520-detect-capital](https://github.com/tamizhh-alt/Leetcode/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/tamizhh-alt/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/tamizhh-alt/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3379-score-of-a-string](https://github.com/tamizhh-alt/Leetcode/tree/master/3379-score-of-a-string) |
 ## String Matching
 |  |
 | ------- |
