@@ -29,6 +29,7 @@ My leetcode problems
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/tamizhh-alt/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/tamizhh-alt/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tamizhh-alt/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/tamizhh-alt/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/tamizhh-alt/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2737-row-with-maximum-ones](https://github.com/tamizhh-alt/Leetcode/tree/master/2737-row-with-maximum-ones) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/tamizhh-alt/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -46,6 +47,7 @@ My leetcode problems
 | [2048-build-array-from-permutation](https://github.com/tamizhh-alt/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/tamizhh-alt/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/tamizhh-alt/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/tamizhh-alt/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -91,6 +93,7 @@ My leetcode problems
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/tamizhh-alt/Leetcode/tree/master/0009-palindrome-number) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/tamizhh-alt/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2556-convert-the-temperature](https://github.com/tamizhh-alt/Leetcode/tree/master/2556-convert-the-temperature) |
 | [3567-convert-date-to-binary](https://github.com/tamizhh-alt/Leetcode/tree/master/3567-convert-date-to-binary) |
 ## Trie
@@ -176,4 +179,8 @@ My leetcode problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tamizhh-alt/Leetcode/tree/master/0169-majority-element) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/tamizhh-alt/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
