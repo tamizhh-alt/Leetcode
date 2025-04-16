@@ -34,6 +34,7 @@ My leetcode problems
 | [2331-intersection-of-multiple-arrays](https://github.com/tamizhh-alt/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2737-row-with-maximum-ones](https://github.com/tamizhh-alt/Leetcode/tree/master/2737-row-with-maximum-ones) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/tamizhh-alt/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3194-find-words-containing-character](https://github.com/tamizhh-alt/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Matrix
 |  |
 | ------- |
@@ -72,6 +73,7 @@ My leetcode problems
 | [1920-determine-color-of-a-chessboard-square](https://github.com/tamizhh-alt/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/tamizhh-alt/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/tamizhh-alt/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3194-find-words-containing-character](https://github.com/tamizhh-alt/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/tamizhh-alt/Leetcode/tree/master/3379-score-of-a-string) |
 | [3567-convert-date-to-binary](https://github.com/tamizhh-alt/Leetcode/tree/master/3567-convert-date-to-binary) |
 ## String Matching
