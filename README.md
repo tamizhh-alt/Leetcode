@@ -75,6 +75,7 @@ My leetcode problems
 | [2292-counting-words-with-a-given-prefix](https://github.com/tamizhh-alt/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3194-find-words-containing-character](https://github.com/tamizhh-alt/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/tamizhh-alt/Leetcode/tree/master/3379-score-of-a-string) |
+| [3412-permutation-difference-between-two-strings](https://github.com/tamizhh-alt/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3567-convert-date-to-binary](https://github.com/tamizhh-alt/Leetcode/tree/master/3567-convert-date-to-binary) |
 ## String Matching
 |  |
@@ -94,6 +95,7 @@ My leetcode problems
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/tamizhh-alt/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tamizhh-alt/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/tamizhh-alt/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
+| [3412-permutation-difference-between-two-strings](https://github.com/tamizhh-alt/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Math
 |  |
 | ------- |
