@@ -70,6 +70,7 @@ My leetcode problems
 | [0520-detect-capital](https://github.com/tamizhh-alt/Leetcode/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/tamizhh-alt/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1205-defanging-an-ip-address](https://github.com/tamizhh-alt/Leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/tamizhh-alt/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/tamizhh-alt/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/tamizhh-alt/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/tamizhh-alt/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -161,6 +162,7 @@ My leetcode problems
 | ------- |
 | [0169-majority-element](https://github.com/tamizhh-alt/Leetcode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/tamizhh-alt/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/tamizhh-alt/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tamizhh-alt/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/tamizhh-alt/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 ## Sliding Window
@@ -191,4 +193,8 @@ My leetcode problems
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/tamizhh-alt/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Greedy
+|  |
+| ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/tamizhh-alt/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
