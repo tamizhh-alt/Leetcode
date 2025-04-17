@@ -1,7 +1,6 @@
 class Solution {
     public int balancedStringSplit(String s) {
         int l = 0;
-        int count = 0;
         List<Integer> list = new ArrayList<>();
 
         char[] ch = s.toCharArray();
