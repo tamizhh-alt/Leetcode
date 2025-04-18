@@ -25,6 +25,7 @@ My leetcode problems
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/tamizhh-alt/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/tamizhh-alt/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1656-count-good-triplets](https://github.com/tamizhh-alt/Leetcode/tree/master/1656-count-good-triplets) |
+| [1944-truncate-sentence](https://github.com/tamizhh-alt/Leetcode/tree/master/1944-truncate-sentence) |
 | [2048-build-array-from-permutation](https://github.com/tamizhh-alt/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/tamizhh-alt/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/tamizhh-alt/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -72,6 +73,7 @@ My leetcode problems
 | [1205-defanging-an-ip-address](https://github.com/tamizhh-alt/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/tamizhh-alt/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/tamizhh-alt/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [1944-truncate-sentence](https://github.com/tamizhh-alt/Leetcode/tree/master/1944-truncate-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/tamizhh-alt/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/tamizhh-alt/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3194-find-words-containing-character](https://github.com/tamizhh-alt/Leetcode/tree/master/3194-find-words-containing-character) |
