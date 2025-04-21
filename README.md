@@ -107,6 +107,7 @@ My leetcode problems
 | ------- |
 | [0009-palindrome-number](https://github.com/tamizhh-alt/Leetcode/tree/master/0009-palindrome-number) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/tamizhh-alt/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [1965-sum-of-digits-in-base-k](https://github.com/tamizhh-alt/Leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/tamizhh-alt/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2556-convert-the-temperature](https://github.com/tamizhh-alt/Leetcode/tree/master/2556-convert-the-temperature) |
 | [3567-convert-date-to-binary](https://github.com/tamizhh-alt/Leetcode/tree/master/3567-convert-date-to-binary) |
