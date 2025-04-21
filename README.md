@@ -37,6 +37,7 @@ My leetcode problems
 | [2737-row-with-maximum-ones](https://github.com/tamizhh-alt/Leetcode/tree/master/2737-row-with-maximum-ones) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/tamizhh-alt/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3194-find-words-containing-character](https://github.com/tamizhh-alt/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/tamizhh-alt/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Matrix
 |  |
 | ------- |
@@ -100,6 +101,7 @@ My leetcode problems
 | [2308-divide-array-into-equal-pairs](https://github.com/tamizhh-alt/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/tamizhh-alt/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [3412-permutation-difference-between-two-strings](https://github.com/tamizhh-alt/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/tamizhh-alt/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
 |  |
 | ------- |
@@ -108,6 +110,7 @@ My leetcode problems
 | [2324-find-triangular-sum-of-an-array](https://github.com/tamizhh-alt/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2556-convert-the-temperature](https://github.com/tamizhh-alt/Leetcode/tree/master/2556-convert-the-temperature) |
 | [3567-convert-date-to-binary](https://github.com/tamizhh-alt/Leetcode/tree/master/3567-convert-date-to-binary) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/tamizhh-alt/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Trie
 |  |
 | ------- |
