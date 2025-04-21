@@ -22,6 +22,7 @@ My leetcode problems
 | [0643-maximum-average-subarray-i](https://github.com/tamizhh-alt/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/tamizhh-alt/Leetcode/tree/master/0724-find-pivot-index) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/tamizhh-alt/Leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
+| [0978-valid-mountain-array](https://github.com/tamizhh-alt/Leetcode/tree/master/0978-valid-mountain-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/tamizhh-alt/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/tamizhh-alt/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1656-count-good-triplets](https://github.com/tamizhh-alt/Leetcode/tree/master/1656-count-good-triplets) |
