@@ -25,6 +25,7 @@ My leetcode problems
 | [0978-valid-mountain-array](https://github.com/tamizhh-alt/Leetcode/tree/master/0978-valid-mountain-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/tamizhh-alt/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/tamizhh-alt/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1635-number-of-good-pairs](https://github.com/tamizhh-alt/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/tamizhh-alt/Leetcode/tree/master/1656-count-good-triplets) |
 | [1944-truncate-sentence](https://github.com/tamizhh-alt/Leetcode/tree/master/1944-truncate-sentence) |
 | [2048-build-array-from-permutation](https://github.com/tamizhh-alt/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -99,6 +100,7 @@ My leetcode problems
 | [0389-find-the-difference](https://github.com/tamizhh-alt/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/tamizhh-alt/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/tamizhh-alt/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1635-number-of-good-pairs](https://github.com/tamizhh-alt/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tamizhh-alt/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/tamizhh-alt/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [3412-permutation-difference-between-two-strings](https://github.com/tamizhh-alt/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -107,6 +109,7 @@ My leetcode problems
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/tamizhh-alt/Leetcode/tree/master/0009-palindrome-number) |
+| [1635-number-of-good-pairs](https://github.com/tamizhh-alt/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/tamizhh-alt/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1965-sum-of-digits-in-base-k](https://github.com/tamizhh-alt/Leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/tamizhh-alt/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -171,6 +174,7 @@ My leetcode problems
 | [0169-majority-element](https://github.com/tamizhh-alt/Leetcode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/tamizhh-alt/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/tamizhh-alt/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1635-number-of-good-pairs](https://github.com/tamizhh-alt/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tamizhh-alt/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/tamizhh-alt/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 ## Sliding Window
