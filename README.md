@@ -39,6 +39,7 @@ My leetcode problems
 | [2737-row-with-maximum-ones](https://github.com/tamizhh-alt/Leetcode/tree/master/2737-row-with-maximum-ones) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/tamizhh-alt/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3194-find-words-containing-character](https://github.com/tamizhh-alt/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tamizhh-alt/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/tamizhh-alt/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Matrix
 |  |
@@ -114,6 +115,7 @@ My leetcode problems
 | [1965-sum-of-digits-in-base-k](https://github.com/tamizhh-alt/Leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/tamizhh-alt/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2556-convert-the-temperature](https://github.com/tamizhh-alt/Leetcode/tree/master/2556-convert-the-temperature) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tamizhh-alt/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3567-convert-date-to-binary](https://github.com/tamizhh-alt/Leetcode/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/tamizhh-alt/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Trie
