@@ -41,6 +41,7 @@ My leetcode problems
 | [2844-sum-of-squares-of-special-elements](https://github.com/tamizhh-alt/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/tamizhh-alt/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/tamizhh-alt/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/tamizhh-alt/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tamizhh-alt/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/tamizhh-alt/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Matrix
@@ -107,6 +108,7 @@ My leetcode problems
 | [1635-number-of-good-pairs](https://github.com/tamizhh-alt/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tamizhh-alt/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/tamizhh-alt/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/tamizhh-alt/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3412-permutation-difference-between-two-strings](https://github.com/tamizhh-alt/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/tamizhh-alt/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
