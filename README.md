@@ -25,6 +25,7 @@ My leetcode problems
 | [0978-valid-mountain-array](https://github.com/tamizhh-alt/Leetcode/tree/master/0978-valid-mountain-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/tamizhh-alt/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1137-height-checker](https://github.com/tamizhh-alt/Leetcode/tree/master/1137-height-checker) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/tamizhh-alt/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/tamizhh-alt/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1635-number-of-good-pairs](https://github.com/tamizhh-alt/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/tamizhh-alt/Leetcode/tree/master/1656-count-good-triplets) |
@@ -116,6 +117,7 @@ My leetcode problems
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/tamizhh-alt/Leetcode/tree/master/0009-palindrome-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/tamizhh-alt/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/tamizhh-alt/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/tamizhh-alt/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1965-sum-of-digits-in-base-k](https://github.com/tamizhh-alt/Leetcode/tree/master/1965-sum-of-digits-in-base-k) |
