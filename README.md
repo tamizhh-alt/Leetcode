@@ -24,6 +24,7 @@ My leetcode problems
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/tamizhh-alt/Leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0978-valid-mountain-array](https://github.com/tamizhh-alt/Leetcode/tree/master/0978-valid-mountain-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/tamizhh-alt/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1137-height-checker](https://github.com/tamizhh-alt/Leetcode/tree/master/1137-height-checker) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/tamizhh-alt/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1635-number-of-good-pairs](https://github.com/tamizhh-alt/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/tamizhh-alt/Leetcode/tree/master/1656-count-good-triplets) |
@@ -155,6 +156,7 @@ My leetcode problems
 | [0349-intersection-of-two-arrays](https://github.com/tamizhh-alt/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/tamizhh-alt/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/tamizhh-alt/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1137-height-checker](https://github.com/tamizhh-alt/Leetcode/tree/master/1137-height-checker) |
 | [2331-intersection-of-multiple-arrays](https://github.com/tamizhh-alt/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/tamizhh-alt/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
@@ -220,4 +222,8 @@ My leetcode problems
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/tamizhh-alt/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/tamizhh-alt/Leetcode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
