@@ -87,6 +87,7 @@ My leetcode problems
 | [1547-destination-city](https://github.com/tamizhh-alt/Leetcode/tree/master/1547-destination-city) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/tamizhh-alt/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1944-truncate-sentence](https://github.com/tamizhh-alt/Leetcode/tree/master/1944-truncate-sentence) |
+| [2032-largest-odd-number-in-string](https://github.com/tamizhh-alt/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/tamizhh-alt/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/tamizhh-alt/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/tamizhh-alt/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -125,6 +126,7 @@ My leetcode problems
 | [1635-number-of-good-pairs](https://github.com/tamizhh-alt/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/tamizhh-alt/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1965-sum-of-digits-in-base-k](https://github.com/tamizhh-alt/Leetcode/tree/master/1965-sum-of-digits-in-base-k) |
+| [2032-largest-odd-number-in-string](https://github.com/tamizhh-alt/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/tamizhh-alt/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/tamizhh-alt/Leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/tamizhh-alt/Leetcode/tree/master/2491-smallest-even-multiple) |
@@ -232,6 +234,7 @@ My leetcode problems
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/tamizhh-alt/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2032-largest-odd-number-in-string](https://github.com/tamizhh-alt/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Counting Sort
 |  |
 | ------- |
