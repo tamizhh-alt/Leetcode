@@ -12,6 +12,7 @@ My leetcode problems
 | [0035-search-insert-position](https://github.com/tamizhh-alt/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/tamizhh-alt/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/tamizhh-alt/Leetcode/tree/master/0118-pascals-triangle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tamizhh-alt/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/tamizhh-alt/Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/tamizhh-alt/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/tamizhh-alt/Leetcode/tree/master/0217-contains-duplicate) |
@@ -147,6 +148,7 @@ My leetcode problems
 | [0042-trapping-rain-water](https://github.com/tamizhh-alt/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/tamizhh-alt/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/tamizhh-alt/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tamizhh-alt/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/tamizhh-alt/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/tamizhh-alt/Leetcode/tree/master/0392-is-subsequence) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/tamizhh-alt/Leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
@@ -155,6 +157,7 @@ My leetcode problems
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/tamizhh-alt/Leetcode/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tamizhh-alt/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/tamizhh-alt/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/tamizhh-alt/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/tamizhh-alt/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
