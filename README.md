@@ -124,6 +124,7 @@ My leetcode problems
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/tamizhh-alt/Leetcode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/tamizhh-alt/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/tamizhh-alt/Leetcode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/tamizhh-alt/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/tamizhh-alt/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -181,6 +182,7 @@ My leetcode problems
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tamizhh-alt/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/tamizhh-alt/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/tamizhh-alt/Leetcode/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/tamizhh-alt/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/tamizhh-alt/Leetcode/tree/master/0392-is-subsequence) |
@@ -257,5 +259,6 @@ My leetcode problems
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/tamizhh-alt/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/tamizhh-alt/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
