@@ -126,6 +126,7 @@ My leetcode problems
 | [0009-palindrome-number](https://github.com/tamizhh-alt/Leetcode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/tamizhh-alt/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/tamizhh-alt/Leetcode/tree/master/1013-fibonacci-number) |
+| [1289-day-of-the-week](https://github.com/tamizhh-alt/Leetcode/tree/master/1289-day-of-the-week) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/tamizhh-alt/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/tamizhh-alt/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/tamizhh-alt/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
