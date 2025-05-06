@@ -136,6 +136,7 @@ My leetcode problems
 | [2383-add-two-integers](https://github.com/tamizhh-alt/Leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/tamizhh-alt/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/tamizhh-alt/Leetcode/tree/master/2556-convert-the-temperature) |
+| [2752-sum-multiples](https://github.com/tamizhh-alt/Leetcode/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/tamizhh-alt/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tamizhh-alt/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3567-convert-date-to-binary](https://github.com/tamizhh-alt/Leetcode/tree/master/3567-convert-date-to-binary) |
