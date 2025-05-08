@@ -135,6 +135,7 @@ My leetcode problems
 | [2032-largest-odd-number-in-string](https://github.com/tamizhh-alt/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/tamizhh-alt/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/tamizhh-alt/Leetcode/tree/master/2383-add-two-integers) |
+| [2481-strictly-palindromic-number](https://github.com/tamizhh-alt/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/tamizhh-alt/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/tamizhh-alt/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2645-pass-the-pillow](https://github.com/tamizhh-alt/Leetcode/tree/master/2645-pass-the-pillow) |
@@ -160,6 +161,7 @@ My leetcode problems
 | [0349-intersection-of-two-arrays](https://github.com/tamizhh-alt/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/tamizhh-alt/Leetcode/tree/master/0392-is-subsequence) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/tamizhh-alt/Leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
+| [2481-strictly-palindromic-number](https://github.com/tamizhh-alt/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/tamizhh-alt/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
@@ -265,4 +267,8 @@ My leetcode problems
 | ------- |
 | [0070-climbing-stairs](https://github.com/tamizhh-alt/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/tamizhh-alt/Leetcode/tree/master/1013-fibonacci-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/tamizhh-alt/Leetcode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
