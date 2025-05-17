@@ -130,6 +130,7 @@ My leetcode problems
 | [1289-day-of-the-week](https://github.com/tamizhh-alt/Leetcode/tree/master/1289-day-of-the-week) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/tamizhh-alt/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/tamizhh-alt/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/tamizhh-alt/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/tamizhh-alt/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1965-sum-of-digits-in-base-k](https://github.com/tamizhh-alt/Leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2032-largest-odd-number-in-string](https://github.com/tamizhh-alt/Leetcode/tree/master/2032-largest-odd-number-in-string) |
