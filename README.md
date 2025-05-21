@@ -26,6 +26,7 @@ My leetcode problems
 | [0978-valid-mountain-array](https://github.com/tamizhh-alt/Leetcode/tree/master/0978-valid-mountain-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/tamizhh-alt/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1137-height-checker](https://github.com/tamizhh-alt/Leetcode/tree/master/1137-height-checker) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/tamizhh-alt/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/tamizhh-alt/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/tamizhh-alt/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1547-destination-city](https://github.com/tamizhh-alt/Leetcode/tree/master/1547-destination-city) |
@@ -60,6 +61,7 @@ My leetcode problems
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/tamizhh-alt/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/tamizhh-alt/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/tamizhh-alt/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2048-build-array-from-permutation](https://github.com/tamizhh-alt/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/tamizhh-alt/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/tamizhh-alt/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -128,6 +130,7 @@ My leetcode problems
 | [0070-climbing-stairs](https://github.com/tamizhh-alt/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/tamizhh-alt/Leetcode/tree/master/1013-fibonacci-number) |
 | [1289-day-of-the-week](https://github.com/tamizhh-alt/Leetcode/tree/master/1289-day-of-the-week) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/tamizhh-alt/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/tamizhh-alt/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/tamizhh-alt/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/tamizhh-alt/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
